@@ -12,6 +12,8 @@ Connect with me or check out my experience and education on LinkedIn:
 <div align="center">
 </div>
 
+ 📫 You can also reach me at **adigup@kth.se**
+
 ---
 
 
