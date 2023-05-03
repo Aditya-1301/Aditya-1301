@@ -32,6 +32,8 @@ Connect with me or check out my experience and education on LinkedIn:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-1301&show_icons=true&count_private=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-1301&layout=compact&theme=radical)](https://github.com/Aditya-1301/github-readme-stats)
+
 <!--
 **Aditya-1301/Aditya-1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
