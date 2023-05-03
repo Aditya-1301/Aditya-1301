@@ -29,6 +29,12 @@ Connect with me or check out my experience and education on LinkedIn:
 - [Wea(the)r it (React Native / Ruby on Rails App)](https://github.com/SierraWeatherApp)
 
 ---
+  
+:hammer_and_wrench: Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,elixir,latex,html,css,js,cpp,rails,tensorflow,react,postgres,md,git,processing&perline=8)](https://skillicons.dev)
+
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-1301&show_icons=true&count_private=true&theme=radical)
 
