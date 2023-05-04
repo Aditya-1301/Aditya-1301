@@ -31,6 +31,15 @@ Connect with me or check out my experience and education on LinkedIn:
 - [Wea(the)r it (React Native / Ruby on Rails App)](https://github.com/SierraWeatherApp)
 
 ---
+
+:books: Coursework:
+
+- [ ID 1021 Algorithms and Datastructures ](https://github.com/Aditya-1301/Algorithms-and-Data-Structures-ID1021)
+- [ ID 1019 Programming 2 ](https://github.com/Aditya-1301/ID_1019_Programming_2_Assignments)
+- [ IK 1203 Networks and Communications ](https://github.com/Aditya-1301/IK1203-Networks-and-Communications-Socket-Programming)
+- [ IV 1351 Data Storage Paradigms ](https://github.com/Aditya-1301/gitRepoIV1351)
+
+---
   
 :hammer_and_wrench: Languages and Tools:
 
@@ -38,9 +47,9 @@ Connect with me or check out my experience and education on LinkedIn:
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-1301&show_icons=true&count_private=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-1301&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-1301&layout=compact&theme=radical)](https://github.com/Aditya-1301/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-1301&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **Aditya-1301/Aditya-1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
