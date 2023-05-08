@@ -34,9 +34,10 @@ Connect with me or check out my experience and education on LinkedIn:
 
 :books: Coursework:
 
-- [ IS 1200 Computer Hardware Engineering ](https://github.com/Aditya-1301/IS1200-Pacman-Project)
-- [ ID 1021 Algorithms and Datastructures ](https://github.com/Aditya-1301/Algorithms-and-Data-Structures-ID1021)
+- [ ID 1018 Programming 1 ](https://github.com/Aditya-1301/ID1018-Programming-1)
 - [ ID 1019 Programming 2 ](https://github.com/Aditya-1301/ID_1019_Programming_2_Assignments)
+- [ ID 1021 Algorithms and Datastructures ](https://github.com/Aditya-1301/Algorithms-and-Data-Structures-ID1021)
+- [ IS 1200 Computer Hardware Engineering ](https://github.com/Aditya-1301/IS1200-Pacman-Project)
 - [ IK 1203 Networks and Communications ](https://github.com/Aditya-1301/IK1203-Networks-and-Communications-Socket-Programming)
 - [ IV 1351 Data Storage Paradigms ](https://github.com/Aditya-1301/gitRepoIV1351)
 
