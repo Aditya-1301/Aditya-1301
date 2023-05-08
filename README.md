@@ -39,7 +39,7 @@ Connect with me or check out my experience and education on LinkedIn:
 - [ ID 1021 Algorithms and Datastructures ](https://github.com/Aditya-1301/Algorithms-and-Data-Structures-ID1021)
 - [ IS 1200 Computer Hardware Engineering (Pacman Project)](https://github.com/Aditya-1301/IS1200-Pacman-Project)
 - [ IK 1203 Networks and Communications ](https://github.com/Aditya-1301/IK1203-Networks-and-Communications-Socket-Programming)
-- [ IV 1351 Data Storage Paradigms ](https://github.com/Aditya-1301/gitRepoIV1351)
+- [ IV 1351 Data Storage Paradigms ](https://github.com/Aditya-1301/IV1351-Datastorage-Paradigms)
 
 ---
   
