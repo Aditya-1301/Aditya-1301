@@ -19,9 +19,8 @@ Connect with me or check out my experience and education on LinkedIn:
 
 🔭 I’m currently working on:
 
-- [ Game using Raylib Library ](https://github.com/Aditya-1301/LightGame)
+- [Chess Game using Raylib Game Library ](https://github.com/Aditya-1301/Raylib_Chess)
   
-
 ---
   
 
