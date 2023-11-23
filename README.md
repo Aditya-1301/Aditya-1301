@@ -27,7 +27,7 @@ Connect with me or check out my experience and education on LinkedIn:
 👨‍💻 Some projects I have worked on:
 
 - [ Advent of Code Solutions ](https://github.com/Aditya-1301/Advent-Of-Code)
-- [Wea(the)r it (React Native / Ruby on Rails App)](https://github.com/SierraWeatherApp)
+- [Wea(the)r it (React Native / Ruby on Rails App)](https://github.com/SierraWeatherApp) | [Project Website](https://weichenchai.wixsite.com/sierra)
 
 ---
 
