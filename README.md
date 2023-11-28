@@ -28,6 +28,7 @@ Connect with me or check out my experience and education on LinkedIn:
 
 - [ Advent of Code Solutions ](https://github.com/Aditya-1301/Advent-Of-Code)
 - [Wea(the)r it (React Native / Ruby on Rails App)](https://github.com/SierraWeatherApp) | [Project Website](https://weichenchai.wixsite.com/sierra)
+<!-- - [Petmatch (Dog adoption website project for course DH2642)](https://github.com/laykos0/petmatch) | [Project Website]() %% -->
 
 ---
 
