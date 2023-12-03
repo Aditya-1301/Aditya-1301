@@ -32,7 +32,7 @@ Connect with me or check out my experience and education on LinkedIn:
 
 ---
 
-:books: Coursework:
+📚 Coursework:
 
 - [ ID 1018 Programming 1 ](https://github.com/Aditya-1301/ID1018-Programming-1)
 - [ ID 1019 Programming 2 ](https://github.com/Aditya-1301/ID_1019_Programming_2_Assignments)
@@ -43,7 +43,7 @@ Connect with me or check out my experience and education on LinkedIn:
 
 ---
   
-:hammer_and_wrench: Languages and Tools:
+🛠️ Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,elixir,latex,html,css,js,cpp,rails,tensorflow,react,postgres,md,git,processing&perline=8)](https://skillicons.dev)
 
