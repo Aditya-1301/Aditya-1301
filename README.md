@@ -28,7 +28,7 @@ Connect with me or check out my experience and education on LinkedIn:
 
 - [ Advent of Code Solutions ](https://github.com/Aditya-1301/Advent-Of-Code)
 - [Wea(the)r it (React Native / Ruby on Rails App (II1305))](https://github.com/SierraWeatherApp) | [Project Website](https://weichenchai.wixsite.com/sierra)
-- [PetMatch (Dog adoption website in React JS (DH2642))](https://github.com/laykos0/petmatch) <!--| [Project Website]() %% -->
+- [WoofFinder (Dog adoption website in React JS (DH2642))](https://github.com/laykos0/petmatch) | [Project Website](https://petmatch-e7a5e.web.app/#/)
 
 ---
 
