@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Aditya 👋 </h1>
 
-<h3 align="center"> I'm a second year bachelor's student stuyding Information and Communication Technology at KTH Royal Institute of Technology.</h3>
+<!--<h3 align="center"> I'm a second year bachelor's student stuyding Information and Communication Technology at KTH Royal Institute of Technology.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya-1301&label=Profile%20views&color=6d0075&style=plastic" alt="Aditya-1301" /> </p>
 
