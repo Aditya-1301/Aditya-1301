@@ -45,7 +45,7 @@ Connect with me or check out my experience and education on LinkedIn:
   
 🛠️ Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,java,elixir,latex,html,css,js,cpp,rails,tensorflow,react,postgres,md,git,processing&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,elixir,latex,html,css,js,cpp,rails,tensorflow,react,postgres,md,git,processing,godot,docker,go,zig,p5js,linux&perline=11)](https://skillicons.dev)
 
 ---
 
