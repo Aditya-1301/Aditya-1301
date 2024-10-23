@@ -12,25 +12,27 @@ Connect with me or check out my experience and education on LinkedIn:
 <div align="center">
 </div>
 
- 📫 You can also reach me at **adigup@kth.se**
+ 📫 You can also reach me at **a.g.gupta@se24.qmul.ac.uk**
 
 ---
 
 
 🔭 I’m currently working on:
 
-- [Chess Game using Raylib Game Library ](https://github.com/Aditya-1301/Raylib_Chess)
+- [Chess Game using Raylib Game Library](https://github.com/Aditya-1301/Raylib_Chess)
   
 ---
   
 
 👨‍💻 Some projects I have worked on:
 
-- [ Advent of Code Solutions ](https://github.com/Aditya-1301/Advent-Of-Code)
+<!-- - [ Advent of Code Solutions ](https://github.com/Aditya-1301/Advent-Of-Code) -->
 - [Wea(the)r it (React Native / Ruby on Rails App (II1305))](https://github.com/SierraWeatherApp) | [Project Website](https://weichenchai.wixsite.com/sierra)
 - [WoofFinder (Dog adoption website in React JS (DH2642))](https://github.com/laykos0/petmatch) | [Project Website](https://petmatch-e7a5e.web.app/#/)
 
 ---
+
+<!--
 
 📚 Coursework:
 
@@ -42,6 +44,7 @@ Connect with me or check out my experience and education on LinkedIn:
 - [ IV 1351 Data Storage Paradigms ](https://github.com/Aditya-1301/IV1351-Datastorage-Paradigms)
 
 ---
+-->
   
 🛠️ Languages and Tools:
 
