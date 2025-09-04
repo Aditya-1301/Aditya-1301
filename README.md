@@ -13,7 +13,7 @@ Connect with me or check out my experience and education on LinkedIn:
 </div>
 
  📫 You can also reach me at **a.g.gupta@se24.qmul.ac.uk**
-
+<!--
 ---
 
 
@@ -22,15 +22,16 @@ Connect with me or check out my experience and education on LinkedIn:
 - [Chess Game using Raylib Game Library](https://github.com/Aditya-1301/Raylib_Chess)
   
 ---
-  
 
+<!--
 👨‍💻 Some projects I have worked on:
 
-<!-- - [ Advent of Code Solutions ](https://github.com/Aditya-1301/Advent-Of-Code) -->
+- [ Advent of Code Solutions ](https://github.com/Aditya-1301/Advent-Of-Code)
 - [Wea(the)r it (React Native / Ruby on Rails App (II1305))](https://github.com/SierraWeatherApp) | [Project Website](https://weichenchai.wixsite.com/sierra)
 - [WoofFinder (Dog adoption website in React JS (DH2642))](https://github.com/laykos0/petmatch) | [Project Website](https://petmatch-e7a5e.web.app/#/)
 
 ---
+-->
 
 <!--
 
@@ -45,7 +46,9 @@ Connect with me or check out my experience and education on LinkedIn:
 
 ---
 -->
-  
+
+---
+
 🛠️ Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,elixir,latex,html,css,js,cpp,rails,tensorflow,react,postgres,md,git,processing,godot,docker,go,zig,p5js,linux&perline=11)](https://skillicons.dev)
